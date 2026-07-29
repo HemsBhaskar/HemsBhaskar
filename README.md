@@ -29,8 +29,8 @@
 **Payments & Standards**
 <p>
   <img src="https://img.shields.io/badge/ISO_20022-1F4E79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RIX-INST-1F4E79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RIX-RTGS-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RIX INST-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RIX RTGS-1F4E79?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SWIFT_MT%2FMX-1F4E79?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PGP_Encryption-1F4E79?style=for-the-badge" />
 </p>
