@@ -17,7 +17,7 @@
 
 - 🏦 8+ years of experience in **Banking & Payments**, currently working on the **Bankgirot ISO 20022 modernisation programme** for a leading Swedish bank
 - 🔄 Career progression across **Application Support & Deployment → Interface & File Flow Testing → Business Analysis**
-- 💳 Specialise in **ISO 20022, MX message standards, SEK-INST, SEK Batch, and PGP-secured file exchange**
+- 💳 Specialized in **ISO 20022, MX message standards, RIX-INST, RIX-RTGS and PGP-secured file exchange**
 - 🛠️ Comfortable across the full stack: requirement gathering, functional specs (FSD/ISD), integration testing, and production support
 - 🌱 Currently exploring Azure & cloud fundamentals for DevOps
 - 💬 Ask me about payment systems, ISO 20022 migrations, or production incident RCA
@@ -29,7 +29,8 @@
 **Payments & Standards**
 <p>
   <img src="https://img.shields.io/badge/ISO_20022-1F4E79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SEK--INST-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RIX-INST-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RIX-RTGS-1F4E79?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SWIFT_MT%2FMX-1F4E79?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PGP_Encryption-1F4E79?style=for-the-badge" />
 </p>
