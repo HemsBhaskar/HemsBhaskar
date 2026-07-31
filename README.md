@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM_Sterling_File_Gateway-052FAD?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/File_Transfer_(FTP/SFTP)-052FAD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HCL_Workload_Automation-004990?style=for-the-badge" />
 </p>
 
