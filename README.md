@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   📍 Stockholm, Sweden &nbsp;|&nbsp;
-  💼 IT Analyst @ Tata Consultancy Services &nbsp;|&nbsp;
+  💼 IT Analyst &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/hemnathab/">LinkedIn</a>
 </p>
 
