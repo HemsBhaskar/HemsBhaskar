@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🏦 8+ years of experience in **Banking & Payments**, combining hands-on B2B integration / managed file transfer platform experience with production support, monitoring, and business analysis across regulated financial environments for a leading Swedish bank
-- 🔄 Career progression across **Application Support & Deployment → Interface & File Flow Testing*
+- 🔄 Career progression across **Application Support & Deployment → Interface & File Flow Testing**
 - 💳 Specialize in **ISO 20022, MX message standards, SEK-INST, SEK Batch, and PGP-secured file exchange**
 - 🛠️ Comfortable across the full stack: requirement gathering, functional specs (FSD/ISD), integration testing, and production support
 - 🌱 Currently exploring Azure & cloud fundamentals for DevOps and Anthropic curve.
