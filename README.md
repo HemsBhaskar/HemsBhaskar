@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🏦 8+ years of experience in **Banking & Payments**, combining hands-on B2B integration / managed file transfer platform experience with production support, monitoring, and business analysis across regulated financial environments for a leading Swedish bank
-- 🔄 Career progression across **Application Support & Deployment → Interface & File Flow Testing → Business Analysis**
+- 🔄 Career progression across **Application Support & Deployment → Interface & File Flow Testing*
 - 💳 Specialize in **ISO 20022, MX message standards, SEK-INST, SEK Batch, and PGP-secured file exchange**
 - 🛠️ Comfortable across the full stack: requirement gathering, functional specs (FSD/ISD), integration testing, and production support
 - 🌱 Currently exploring Azure & cloud fundamentals for DevOps and Anthropic curve.
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 **Languages & Databases**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
@@ -71,6 +72,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Winscp-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM_Sterling_File_Gateway-052FAD?style=for-the-badge" />
    <img src="https://img.shields.io/badge/File_Transfer_(FTP/SFTP)-052FAD?style=for-the-badge" />
@@ -92,15 +94,15 @@ Here are some ideas to get you started:
 ```
 2021 ─────────────────────────────────────────────► Present
  │
- ├─ IT Analyst @ TCS (client: Länsförsäkringar Bank, Stockholm)
- │  ├─ ISO 20022 migration lead — Storkund segment, 85+ subsystems
+ ├─ IT Analyst @ TCS | Swedish Bank
+ │  ├─ Business Analysis — Requirement Gathering, Functional & integration support, ISO 20022 Modernization , Documentation.
  │  ├─ PGP encryption & secure file exchange ownership
  │  ├─ MQ channel & FTP/SFTP operations
- │  └─ 3rd-line production support, RCA, incident lifecycle (ServiceNow/ITIL)
+ │  └─ L2/L3 production support, RCA, incident lifecycle (ServiceNow/ITIL)
  │
 2017 ──────────────────────────────────────────► 2021
  │
- └─ System Engineer @ TCS (clients: PostFinance CH, Banque Saudi Fransi)
+ └─ System Engineer @ TCS
     ├─ WebLogic / WebSphere / Oracle stack administration
     └─ ITIL incident, change & problem management
 ```
