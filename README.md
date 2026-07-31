@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Hemnath AB</h1>
 <h3 align="center">IT Analyst · Banking, Payments & ISO 20022 | Application Support & Business Analysis</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HemsBhaskar&label=Profile%20views&color=1F4E79&style=flat" alt="profile views" />
 </p>
@@ -31,12 +30,12 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-- 🏦 8+ years of experience in **Banking & Payments**, currently working on the **Bankgirot ISO 20022 modernisation programme** for a leading Swedish bank
+- 🏦 8+ years of experience in **Banking & Payments**, combining hands-on B2B integration / managed file transfer platform experience with production support, monitoring, and business analysis across regulated financial environments for a leading Swedish bank
 - 🔄 Career progression across **Application Support & Deployment → Interface & File Flow Testing → Business Analysis**
 - 💳 Specialize in **ISO 20022, MX message standards, SEK-INST, SEK Batch, and PGP-secured file exchange**
 - 🛠️ Comfortable across the full stack: requirement gathering, functional specs (FSD/ISD), integration testing, and production support
-- 🌱 Currently exploring Azure & cloud fundamentals for DevOps
-- 💬 Ask me about payment systems, ISO 20022 migrations, or production incident RCA
+- 🌱 Currently exploring Azure & cloud fundamentals for DevOps and Anthropic curve.
+- 💬 Ask me about payment File Flow systems, ISO 20022 migrations, Secure file protocols.
 
 ---
 
@@ -87,10 +86,29 @@ Here are some ideas to get you started:
 </p>
 
 ---
+## 💼 Experience Timeline
+
+```
+2021 ─────────────────────────────────────────────► Present
+ │
+ ├─ IT Analyst @ TCS (client: Länsförsäkringar Bank, Stockholm)
+ │  ├─ ISO 20022 migration lead — Storkund segment, 85+ subsystems
+ │  ├─ PGP encryption & secure file exchange ownership
+ │  ├─ MQ channel & FTP/SFTP operations
+ │  └─ 3rd-line production support, RCA, incident lifecycle (ServiceNow/ITIL)
+ │
+2017 ──────────────────────────────────────────► 2021
+ │
+ └─ System Engineer @ TCS (clients: PostFinance CH, Banque Saudi Fransi)
+    ├─ WebLogic / WebSphere / Oracle stack administration
+    └─ ITIL incident, change & problem management
+```
 
 ### 📌 Featured / Learning
 
 - 🔧 [Azure-zero-to-hero](https://github.com/HemsBhaskar/Azure-zero-to-hero) — working through Azure fundamentals for DevOps
+- 🔧 [Claude Platform & Model Foundations](https://anthropic-partners.skilljar.com/claude-platform-model-foundations) - adapting to the Prompting and basic Foundations.
+
 
 ---
 
