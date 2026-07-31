@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hemnath AB</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=650&lines=8%2B+years+in+Banking+%26+Payments+IT;B2B+Integration+%7C+Managed+File+Transfer+%7C+ISO+20022;Currently+delivering+the+Bankgirot+ISO+20022+migration;Building+working+knowledge+of+SEEBURGER+BIS" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=650&lines=IT Analyst | Banking+%26+Payments;Applicaiton+Support +%7C+Business+Analysis+%7C+ISO+20022" alt="Typing SVG" />
+</div>
 <h3 align="center">IT Analyst · Banking, Payments & ISO 20022 | Application Support & Business Analysis</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HemsBhaskar&label=Profile%20views&color=1F4E79&style=flat" alt="profile views" />
