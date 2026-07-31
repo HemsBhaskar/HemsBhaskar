@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=IT+Analyst+%7C+Banking+%26+Payments;Application+Support+%7C+Business+Analysis+%7C+ISO+20022" alt="Typing SVG" />
 </div>
+<!--
 <h3 align="center">IT Analyst · Banking, Payments & ISO 20022 | Application Support & Business Analysis</h3>
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HemsBhaskar&label=Profile%20views&color=1F4E79&style=flat" alt="profile views" />
 </p>
