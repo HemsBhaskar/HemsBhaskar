@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Hemnath AB</h1>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=IT+Analyst+%7C+Banking+%26+Payments;Application+Support+%7C+Business+Analysis+%7C+ISO+20022" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=IT+Analyst+%7C+Banking+%26+Payments;Application+Support+%7C+Business+Analysis+%7C+ISO+20022" alt="Typing SVG" />
 </div>
 <!--
